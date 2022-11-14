@@ -1,4 +1,7 @@
-## references
-Billy bob Horton
-Brad Pitt
-octocat 3
+
+# References
+
+* octocat 1 😈
+* Billy Bob Horton
+* Brad Pitt
+
